@@ -1,0 +1,15 @@
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day2-AtualizandoProjeto\obj\Debug\net8.0\Day2-AtualizandoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day2-AtualizandoProjeto\obj\Debug\net8.0\Day2-AtualizandoProjeto.AssemblyInfoInputs.cache
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day2-AtualizandoProjeto\obj\Debug\net8.0\Day2-AtualizandoProjeto.AssemblyInfo.cs
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day2-AtualizandoProjeto\obj\Debug\net8.0\Day2-AtualizandoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day2-AtualizandoProjeto\obj\Debug\net8.0\Day2-AtualizandoProjeto.sourcelink.json
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day2-AtualizandoProjeto\bin\Debug\net8.0\Day2-AtualizandoProjeto.exe
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day2-AtualizandoProjeto\bin\Debug\net8.0\Day2-AtualizandoProjeto.deps.json
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day2-AtualizandoProjeto\bin\Debug\net8.0\Day2-AtualizandoProjeto.runtimeconfig.json
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day2-AtualizandoProjeto\bin\Debug\net8.0\Day2-AtualizandoProjeto.dll
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day2-AtualizandoProjeto\bin\Debug\net8.0\Day2-AtualizandoProjeto.pdb
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day2-AtualizandoProjeto\obj\Debug\net8.0\Day2-AtualizandoProjeto.dll
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day2-AtualizandoProjeto\obj\Debug\net8.0\refint\Day2-AtualizandoProjeto.dll
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day2-AtualizandoProjeto\obj\Debug\net8.0\Day2-AtualizandoProjeto.pdb
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day2-AtualizandoProjeto\obj\Debug\net8.0\Day2-AtualizandoProjeto.genruntimeconfig.cache
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day2-AtualizandoProjeto\obj\Debug\net8.0\ref\Day2-AtualizandoProjeto.dll
