@@ -1,0 +1,14 @@
+C:\Users\rgard\Documents\STUDY\DEV\c#\primeiroProjeto\bin\Debug\net8.0\primeiroProjeto.exe
+C:\Users\rgard\Documents\STUDY\DEV\c#\primeiroProjeto\bin\Debug\net8.0\primeiroProjeto.deps.json
+C:\Users\rgard\Documents\STUDY\DEV\c#\primeiroProjeto\bin\Debug\net8.0\primeiroProjeto.runtimeconfig.json
+C:\Users\rgard\Documents\STUDY\DEV\c#\primeiroProjeto\bin\Debug\net8.0\primeiroProjeto.dll
+C:\Users\rgard\Documents\STUDY\DEV\c#\primeiroProjeto\bin\Debug\net8.0\primeiroProjeto.pdb
+C:\Users\rgard\Documents\STUDY\DEV\c#\primeiroProjeto\obj\Debug\net8.0\primeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgard\Documents\STUDY\DEV\c#\primeiroProjeto\obj\Debug\net8.0\primeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\rgard\Documents\STUDY\DEV\c#\primeiroProjeto\obj\Debug\net8.0\primeiroProjeto.AssemblyInfo.cs
+C:\Users\rgard\Documents\STUDY\DEV\c#\primeiroProjeto\obj\Debug\net8.0\primeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\rgard\Documents\STUDY\DEV\c#\primeiroProjeto\obj\Debug\net8.0\primeiroProjeto.dll
+C:\Users\rgard\Documents\STUDY\DEV\c#\primeiroProjeto\obj\Debug\net8.0\refint\primeiroProjeto.dll
+C:\Users\rgard\Documents\STUDY\DEV\c#\primeiroProjeto\obj\Debug\net8.0\primeiroProjeto.pdb
+C:\Users\rgard\Documents\STUDY\DEV\c#\primeiroProjeto\obj\Debug\net8.0\primeiroProjeto.genruntimeconfig.cache
+C:\Users\rgard\Documents\STUDY\DEV\c#\primeiroProjeto\obj\Debug\net8.0\ref\primeiroProjeto.dll
