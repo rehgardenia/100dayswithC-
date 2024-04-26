@@ -1,0 +1,15 @@
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\day3-SwitchCase\logicaDecisao\bin\Debug\net8.0\logicaDecisao.exe
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\day3-SwitchCase\logicaDecisao\bin\Debug\net8.0\logicaDecisao.deps.json
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\day3-SwitchCase\logicaDecisao\bin\Debug\net8.0\logicaDecisao.runtimeconfig.json
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\day3-SwitchCase\logicaDecisao\bin\Debug\net8.0\logicaDecisao.dll
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\day3-SwitchCase\logicaDecisao\bin\Debug\net8.0\logicaDecisao.pdb
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\day3-SwitchCase\logicaDecisao\obj\Debug\net8.0\logicaDecisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\day3-SwitchCase\logicaDecisao\obj\Debug\net8.0\logicaDecisao.AssemblyInfoInputs.cache
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\day3-SwitchCase\logicaDecisao\obj\Debug\net8.0\logicaDecisao.AssemblyInfo.cs
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\day3-SwitchCase\logicaDecisao\obj\Debug\net8.0\logicaDecisao.csproj.CoreCompileInputs.cache
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\day3-SwitchCase\logicaDecisao\obj\Debug\net8.0\logicaDecisao.sourcelink.json
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\day3-SwitchCase\logicaDecisao\obj\Debug\net8.0\logicaDecisao.dll
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\day3-SwitchCase\logicaDecisao\obj\Debug\net8.0\refint\logicaDecisao.dll
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\day3-SwitchCase\logicaDecisao\obj\Debug\net8.0\logicaDecisao.pdb
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\day3-SwitchCase\logicaDecisao\obj\Debug\net8.0\logicaDecisao.genruntimeconfig.cache
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\day3-SwitchCase\logicaDecisao\obj\Debug\net8.0\ref\logicaDecisao.dll

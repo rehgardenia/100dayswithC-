@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rgard\\Documents\\STUDY\\DEV\\100dayswithCSharp\\Day1- primeiroProjeto\\primeiroProjeto.csproj",
-      "projectName": "primeiroProjeto",
-      "projectPath": "C:\\Users\\rgard\\Documents\\STUDY\\DEV\\100dayswithCSharp\\Day1- primeiroProjeto\\primeiroProjeto.csproj",
+      "projectUniqueName": "C:\\Users\\rgard\\Documents\\STUDY\\DEV\\100dayswithCSharp\\day3-SwitchCase\\logicaDecisao\\logicaDecisao.csproj",
+      "projectName": "logicaDecisao",
+      "projectPath": "C:\\Users\\rgard\\Documents\\STUDY\\DEV\\100dayswithCSharp\\day3-SwitchCase\\logicaDecisao\\logicaDecisao.csproj",
       "packagesPath": "C:\\Users\\rgard\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rgard\\Documents\\STUDY\\DEV\\100dayswithCSharp\\Day1- primeiroProjeto\\obj\\",
+      "outputPath": "C:\\Users\\rgard\\Documents\\STUDY\\DEV\\100dayswithCSharp\\day3-SwitchCase\\logicaDecisao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rgard\\AppData\\Roaming\\NuGet\\NuGet.Config"
