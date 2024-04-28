@@ -1,0 +1,15 @@
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\validarcaracter\obj\Debug\net8.0\validarcaracter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\validarcaracter\obj\Debug\net8.0\validarcaracter.AssemblyInfoInputs.cache
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\validarcaracter\obj\Debug\net8.0\validarcaracter.AssemblyInfo.cs
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\validarcaracter\obj\Debug\net8.0\validarcaracter.csproj.CoreCompileInputs.cache
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\validarcaracter\obj\Debug\net8.0\validarcaracter.sourcelink.json
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\validarcaracter\bin\Debug\net8.0\validarcaracter.exe
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\validarcaracter\bin\Debug\net8.0\validarcaracter.deps.json
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\validarcaracter\bin\Debug\net8.0\validarcaracter.runtimeconfig.json
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\validarcaracter\bin\Debug\net8.0\validarcaracter.dll
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\validarcaracter\bin\Debug\net8.0\validarcaracter.pdb
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\validarcaracter\obj\Debug\net8.0\validarcaracter.dll
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\validarcaracter\obj\Debug\net8.0\refint\validarcaracter.dll
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\validarcaracter\obj\Debug\net8.0\validarcaracter.pdb
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\validarcaracter\obj\Debug\net8.0\validarcaracter.genruntimeconfig.cache
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\validarcaracter\obj\Debug\net8.0\ref\validarcaracter.dll

@@ -10,7 +10,7 @@ while(validarEntrada == false){
         validarNumero = int.TryParse(entrada, out valor);
         if(validarNumero){
             if((valor >= 5) && (valor <= 10)){
-                Console.WriteLine($"{valor} - Valor de entrada válido.");
+               
                 validarEntrada = true;
             }
             else{
@@ -22,3 +22,4 @@ while(validarEntrada == false){
         }
     }
 }
+ Console.WriteLine($"{valor} - Valor de entrada válido.");
