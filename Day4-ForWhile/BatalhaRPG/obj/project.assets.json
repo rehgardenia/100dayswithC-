@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rgard\\Documents\\STUDY\\DEV\\100dayswithCSharp\\Day4-For\\Day4-For.csproj",
-      "projectName": "Day4-For",
-      "projectPath": "C:\\Users\\rgard\\Documents\\STUDY\\DEV\\100dayswithCSharp\\Day4-For\\Day4-For.csproj",
+      "projectUniqueName": "C:\\Users\\rgard\\Documents\\STUDY\\DEV\\100dayswithCSharp\\Day4-ForWhile\\batalharpg\\batalharpg.csproj",
+      "projectName": "batalharpg",
+      "projectPath": "C:\\Users\\rgard\\Documents\\STUDY\\DEV\\100dayswithCSharp\\Day4-ForWhile\\batalharpg\\batalharpg.csproj",
       "packagesPath": "C:\\Users\\rgard\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rgard\\Documents\\STUDY\\DEV\\100dayswithCSharp\\Day4-For\\obj\\",
+      "outputPath": "C:\\Users\\rgard\\Documents\\STUDY\\DEV\\100dayswithCSharp\\Day4-ForWhile\\batalharpg\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rgard\\AppData\\Roaming\\NuGet\\NuGet.Config"

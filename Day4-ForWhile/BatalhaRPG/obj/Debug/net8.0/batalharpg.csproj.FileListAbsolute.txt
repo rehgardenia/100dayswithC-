@@ -1,0 +1,15 @@
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\batalharpg\obj\Debug\net8.0\batalharpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\batalharpg\obj\Debug\net8.0\batalharpg.AssemblyInfoInputs.cache
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\batalharpg\obj\Debug\net8.0\batalharpg.AssemblyInfo.cs
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\batalharpg\obj\Debug\net8.0\batalharpg.csproj.CoreCompileInputs.cache
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\batalharpg\obj\Debug\net8.0\batalharpg.sourcelink.json
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\batalharpg\bin\Debug\net8.0\batalharpg.exe
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\batalharpg\bin\Debug\net8.0\batalharpg.deps.json
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\batalharpg\bin\Debug\net8.0\batalharpg.runtimeconfig.json
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\batalharpg\bin\Debug\net8.0\batalharpg.dll
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\batalharpg\bin\Debug\net8.0\batalharpg.pdb
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\batalharpg\obj\Debug\net8.0\batalharpg.dll
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\batalharpg\obj\Debug\net8.0\refint\batalharpg.dll
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\batalharpg\obj\Debug\net8.0\batalharpg.pdb
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\batalharpg\obj\Debug\net8.0\batalharpg.genruntimeconfig.cache
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day4-ForWhile\batalharpg\obj\Debug\net8.0\ref\batalharpg.dll
