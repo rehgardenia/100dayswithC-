@@ -1,0 +1,5 @@
+C:\Users\renatacamargo\Documents\programação\30dayswithCSharp\Day5-Projeto\obj\Debug\net8.0\Day5-Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renatacamargo\Documents\programação\30dayswithCSharp\Day5-Projeto\obj\Debug\net8.0\Day5-Projeto.AssemblyInfoInputs.cache
+C:\Users\renatacamargo\Documents\programação\30dayswithCSharp\Day5-Projeto\obj\Debug\net8.0\Day5-Projeto.AssemblyInfo.cs
+C:\Users\renatacamargo\Documents\programação\30dayswithCSharp\Day5-Projeto\obj\Debug\net8.0\Day5-Projeto.csproj.CoreCompileInputs.cache
+C:\Users\renatacamargo\Documents\programação\30dayswithCSharp\Day5-Projeto\obj\Debug\net8.0\Day5-Projeto.sourcelink.json
