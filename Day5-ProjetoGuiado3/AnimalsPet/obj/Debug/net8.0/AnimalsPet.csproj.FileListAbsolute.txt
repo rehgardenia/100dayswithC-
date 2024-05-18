@@ -1,0 +1,15 @@
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day5-ProjetoGuiado3\AnimalsPet\bin\Debug\net8.0\AnimalsPet.exe
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day5-ProjetoGuiado3\AnimalsPet\bin\Debug\net8.0\AnimalsPet.deps.json
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day5-ProjetoGuiado3\AnimalsPet\bin\Debug\net8.0\AnimalsPet.runtimeconfig.json
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day5-ProjetoGuiado3\AnimalsPet\bin\Debug\net8.0\AnimalsPet.dll
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day5-ProjetoGuiado3\AnimalsPet\bin\Debug\net8.0\AnimalsPet.pdb
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day5-ProjetoGuiado3\AnimalsPet\obj\Debug\net8.0\AnimalsPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day5-ProjetoGuiado3\AnimalsPet\obj\Debug\net8.0\AnimalsPet.AssemblyInfoInputs.cache
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day5-ProjetoGuiado3\AnimalsPet\obj\Debug\net8.0\AnimalsPet.AssemblyInfo.cs
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day5-ProjetoGuiado3\AnimalsPet\obj\Debug\net8.0\AnimalsPet.csproj.CoreCompileInputs.cache
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day5-ProjetoGuiado3\AnimalsPet\obj\Debug\net8.0\AnimalsPet.sourcelink.json
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day5-ProjetoGuiado3\AnimalsPet\obj\Debug\net8.0\AnimalsPet.dll
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day5-ProjetoGuiado3\AnimalsPet\obj\Debug\net8.0\refint\AnimalsPet.dll
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day5-ProjetoGuiado3\AnimalsPet\obj\Debug\net8.0\AnimalsPet.pdb
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day5-ProjetoGuiado3\AnimalsPet\obj\Debug\net8.0\AnimalsPet.genruntimeconfig.cache
+C:\Users\rgard\Documents\STUDY\DEV\100dayswithCSharp\Day5-ProjetoGuiado3\AnimalsPet\obj\Debug\net8.0\ref\AnimalsPet.dll
